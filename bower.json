@@ -11,7 +11,12 @@
   ],
   "ignore": [
     "app/backand/css",
-    "app/backand/js"
+    "app/backand/js",
+    "app/backand/css",
+    "app/backand/js",
+    "app/build",
+    "app/docs",
+    "app/misc"
   ],
   "homepage": "https://github.com/itayher/itaytest",
   "license": "MIT",
