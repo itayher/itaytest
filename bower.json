@@ -13,9 +13,9 @@
     "app/backand/css",
     "app/backand/js",
     "app/backand/css",
-    "app/build",
-    "app/docs",
-    "app/misc"
+    "build",
+    "docs",
+    "misc"
   ],
   "homepage": "https://github.com/itayher/itaytest",
   "license": "MIT",
