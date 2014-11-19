@@ -4,7 +4,7 @@
   "version": "0.1.3",
   "main": [
     "app/backand/dist/angularbknd.debug.css",
-    "app//backand/dist/angularbknd.debug.js",
+    "app/backand/dist/angularbknd.debug.js",
     "app/backand/dist/angularbknd.min.css",
     "app/backand/dist/angularbknd.min.js",
     "app/backand/img"
@@ -13,7 +13,6 @@
     "app/backand/css",
     "app/backand/js",
     "app/backand/css",
-    "app/backand/js",
     "app/build",
     "app/docs",
     "app/misc"
